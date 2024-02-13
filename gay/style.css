@@ -123,11 +123,11 @@ input:focus{
         color:white;
         font-size:25px;
         position:absolute;
-        top:15px
-        left:20px
+        top:15px;
+        left:20px;
         border:none;
     }
     header h1{
-        left 50%
+        top 0;
     }
 }
