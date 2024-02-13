@@ -120,4 +120,7 @@ input:focus{
     .menu{
         display: block;
     }
+    header h1{
+        left 50%
+    }
 }
