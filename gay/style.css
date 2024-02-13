@@ -119,6 +119,13 @@ input:focus{
     }
     .menu{
         display: block;
+        background-color:transparent;
+        color:white;
+        font-size:25px;
+        position:absolute;
+        top:15px
+        left:20px
+        border:none;
     }
     header h1{
         left 50%
